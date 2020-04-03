@@ -220,7 +220,7 @@ button:hover {
 
 body.day {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("/images/bg.jpg");
+    url("../images/bg.jpg");
   transition: 0.5s;
 }
 
