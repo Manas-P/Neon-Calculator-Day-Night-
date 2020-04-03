@@ -1,0 +1,138 @@
+@media screen and (max-width: 590px) {
+  #neon_box {
+    position: absolute;
+    top: 18.5%;
+    left: 10%;
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    /*background: linear-gradient(0deg, #000, #262626);*/
+    background-color: #000;
+    transition: 0.5s;
+  }
+
+  h1 {
+    top: 3%;
+    left: 21.5%;
+    font-size: 35px;
+    color: #00ff11;
+    transition: 0.5s;
+  }
+
+  .toggle {
+    top: 2%;
+    right: 4%;
+  }
+
+  .operator,
+  .number,
+  .empty {
+    width: 35px;
+    height: 35px;
+    margin: 15px;
+    font-size: 15px;
+  }
+
+  #history {
+    padding-top: 10px;
+    margin: 0;
+  }
+
+  #output {
+    margin: 0;
+    font-size: 35px;
+  }
+
+  #keyboard {
+    height: 500px;
+    padding-left: 15px;
+    padding-top: 10px;
+  }
+}
+
+@media screen and (max-width: 1520px) {
+  #neon_box {
+    left: 35%;
+  }
+
+  h1 {
+    left: 35.5%;
+  }
+}
+
+@media screen and (max-width: 1310px) {
+  #neon_box {
+    left: 32.5%;
+  }
+
+  h1 {
+    left: 33%;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  #neon_box {
+    left: 27%;
+  }
+
+  h1 {
+    left: 28%;
+  }
+}
+
+@media screen and (max-width: 845px) {
+  #neon_box {
+    left: 23.5%;
+  }
+
+  h1 {
+    left: 24.5%;
+  }
+}
+
+@media screen and (max-width: 590px) {
+  #neon_box {
+    top: 18.5%;
+    left: 10%;
+    width: 300px;
+    height: 500px;
+  }
+
+  h1 {
+    top: 3%;
+    left: 21.5%;
+    font-size: 35px;
+    color: #00ff11;
+    transition: 0.5s;
+  }
+
+  .toggle {
+    top: 2%;
+    right: 4%;
+  }
+
+  .operator,
+  .number,
+  .empty {
+    width: 35px;
+    height: 35px;
+    margin: 15px;
+    font-size: 15px;
+  }
+
+  #history {
+    padding-top: 10px;
+    margin: 0;
+  }
+
+  #output {
+    margin: 0;
+    font-size: 35px;
+  }
+
+  #keyboard {
+    height: 500px;
+    padding-left: 15px;
+    padding-top: 10px;
+  }
+}
